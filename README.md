@@ -2,11 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicolrg11&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maicolrg11)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maicolrg11)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maicolrg11,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maicolrg11&layout=compact)
 
 <!--
 **maicolrg11/maicolrg11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
