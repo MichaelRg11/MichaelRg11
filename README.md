@@ -26,3 +26,12 @@
 #- 😄 Pronouns: ...
 #- ⚡ Fun fact: ...
 #
+
+
+=begin
+  def self.find_for_laronda
+    self.search_and_persist('to:riderstate')
+    self.search_and_persist('to:dportsinlimites')
+    self.search_and_persist('#laronda')
+  end
+=end
