@@ -4,7 +4,7 @@
   No hay sobre mi por el momento
 <h3 align="center">Contacta conmigo: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/michael-rodriguez-polo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/michael-rodriguez-polo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 <h1></h1>
 <h4 align="center">Lenguajes de programación</h4>
